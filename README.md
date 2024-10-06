@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pooja Banswal and I am a passionate Python developer from India</h2>
+<h2 align="left">Hi 👋! My name is Pooja Banswal and I am a passionate Java and Python developer from India</h2>
 
 ###
 
@@ -48,6 +48,6 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Pooja Banswal.<br>👀 I’m interested in data analysis and web development.<br>🌱 I’m currently learning advanced techniques in AI & ML, and expanding my knowledge in computer science.<br>💞️ I’m looking to collaborate on Python projects related to data analysis, web development, or machine learning.<br>💻 I'm proficient in Python and Flask, specializing as a Back-end Developer.<br>🔍 I have a keen eye for identifying patterns in technology rather than focusing solely on memorization, constantly seeking to deepen my understanding in various domains of computer science and data analysis.</p>
+<p align="left">👋 Hi, I’m Pooja Banswal.<br>👀 I’m interested in data analysis and web development.<br>🌱 I’m currently learning advanced techniques in AI & ML, and expanding my knowledge in computer science.<br>💞️ I’m looking to collaborate on Python and Java projects related to data analysis, web development, or machine learning.<br>💻 I'm proficient in Python, Java and Flask, specializing as a Back-end Developer.<br>🔍 I have a keen eye for identifying patterns in technology rather than focusing solely on memorization, constantly seeking to deepen my understanding in various domains of computer science .</p>
 
 ###
